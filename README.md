@@ -1,7 +1,6 @@
 👩‍💻 Leda - Desenvolvedor FullStack
 Bem-vindo ao meu perfil no GitHub!
 
-🌐 Sobre Mim
 🔥 Frontend com React.Js
 Tenho experiência em desenvolver interfaces de usuário dinâmicas e responsivas utilizando React.Js.
 
