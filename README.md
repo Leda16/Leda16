@@ -16,9 +16,6 @@ Python é uma das minhas linguagens favoritas devido à sua versatilidade. Uso P
 🤖 Desenvolvimento de IA
 Trabalho com técnicas de Inteligência Artificial para criar sistemas autônomos que resolvem problemas complexos de forma inovadora.
 
-🎨 Modelagem com Blender
-Tenho habilidades em modelagem 3D com Blender, criando personagens para jogos e modelos 3D.
-
 🔙 Backend com PHP, Perl, Go, Node.js
 Possuo experiência em desenvolvimento Backend utilizando PHP, Perl, Go e Node.js, criando sistemas robustos e escaláveis para diferentes necessidades e aplicações.
 
