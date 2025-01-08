@@ -1,7 +1,7 @@
 👩‍💻 Leda - Desenvolvedor FullStack
 Bem-vindo ao meu perfil no GitHub!
 
-🔥 Frontend com React.Js
+🔥 Frontend com React.Js/NextJs
 Tenho experiência em desenvolver interfaces de usuário dinâmicas e responsivas utilizando React.Js.
 
 🎮 Lua para Fivem
@@ -22,4 +22,4 @@ Possuo experiência em desenvolvimento Backend utilizando PHP, Perl, Go e Node.j
 💀 Programação de Cheats
 Conhecimento em programação de cheats, manipular memorias de jogos e de processos, e exploit de AntiCheats
 
-@leda.artur
+@ledaxddd
